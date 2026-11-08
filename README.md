@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Portfólio de Carreira
+#  Portifólio de Carreira
 
 **Trajetória de desenvolvimento pessoal e profissional**
 
@@ -20,7 +20,8 @@ Registro do meu semestre em Análise e Desenvolvimento de Sistemas: perfil compo
 
 Este repositório reúne o Portfólio de Carreira que fiz para a disciplina de Design Profissional, do curso de Análise e Desenvolvimento de Sistemas da Universidade Cidade de São Paulo (UNICID). Descobri na faculdade que quero construir minha carreira na tecnologia, com foco em front-end. O portfólio conta como foi essa virada ao longo do semestre e mostra o que mudou na forma como eu me apresento e me enxergo.
 
-O documento completo, em PDF e formatado segundo as normas da ABNT, está na pasta `docs`. Para ler direto no navegador, é só abrir o arquivo [Portfolio_de_Carreira_Kaylany_Thayna_ABNT_atualizado.pdf](docs/Portfolio_de_Carreira_Kaylany_Thayna_ABNT_atualizado.pdf).
+O documento completo, em PDF e formatado segundo as normas da ABNT, está na pasta `docs`. Para ler direto no navegador, é só abrir o arquivo [Portfolio_de_Carreira_Kaylany_Thayna_ABNT_atualizado.pdf][Portfolio_de_Carreira_Kaylany_Thayna_ABNT_atualizado.pdf](https://github.com/user-attachments/files/34546008/Portfolio_de_Carreira_Kaylany_Thayna_ABNT_atualizado.pdf)
+.
 
 ##  Objetivos
 
